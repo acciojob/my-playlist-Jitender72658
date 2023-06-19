@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+div{
+	margin:20px;
+}
+*{
+	background: #cccccc;
+}
+.player_one a{
+	target: "_blank";
+}
