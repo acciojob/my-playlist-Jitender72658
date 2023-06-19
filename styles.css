@@ -14,16 +14,14 @@ div{
 	border: 1px solid black;
 	border-radius:5px;
 }
-.player_two section{
-	display: inline-block;
-    border: 1px solid black;
-    padding: 5px;
-	background:rgb(255, 255, 255);;
-	border-radius:5px;
-	text-align: center;
-}
-.player_two{
-	background: rgb(255, 255, 255);
+.player_two {
+	background-color:white;
+	border:1px solid grey;
+	border-radius: 5px;
+    margin-left:auto;
+	margin-right:auto;
+	width: max-content;
+	padding: 5px;
 }
 
 body{
