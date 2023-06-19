@@ -4,7 +4,7 @@ div{
 }
 
 .player_one a{
-	target: "_blank";
+	target-new: tab;
 	text-decoration: none;
 }
 .player_one ul{
