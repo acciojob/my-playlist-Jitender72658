@@ -4,7 +4,6 @@ div{
 }
 
 .player_one a{
-	target-new: tab;
 	text-decoration: none;
 }
 .player_one ul{
@@ -22,6 +21,9 @@ div{
 	background:white;
 	border-radius:5px;
 	text-align: center;
+}
+.player_two{
+	background: rgb(255, 255, 255);
 }
 
 html{
