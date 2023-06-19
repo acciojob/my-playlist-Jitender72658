@@ -2,9 +2,29 @@
 div{
 	margin:20px;
 }
-*{
-	background: #cccccc;
-}
+
 .player_one a{
 	target: "_blank";
+	text-decoration: none;
 }
+.player_one ul{
+    list-style: none;
+}
+.player_one{
+	background-color:white;
+	border: 1px solid black;
+	border-radius:5px;
+}
+.player_two section{
+	display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+	background:white;
+	border-radius:5px;
+	text-align: center;
+}
+
+html{
+	background:#cccccc;
+}
+
